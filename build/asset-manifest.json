@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d10672c.css",
+    "main.js": "/static/js/main.fc4b689e.js",
+    "static/media/logo-branco.svg": "/static/media/logo-branco.4fb3c660b94f8163185979859f10b591.svg",
+    "static/media/logo-future-eats-invert.svg": "/static/media/logo-future-eats-invert.a5aff78d76698a24acc3f2c7bbf338a4.svg",
+    "static/media/shopping-cart-orange.svg": "/static/media/shopping-cart-orange.29f6ee7956a29d5be6ff20b7750f949e.svg",
+    "static/media/shopping-cart.svg": "/static/media/shopping-cart.18651ec3fd03ce7aec05cbf53fb3e6ca.svg",
+    "static/media/logout.svg": "/static/media/logout.bcc960afba67c92365cdbee4e96a87bd.svg",
+    "static/media/avatar-orange.svg": "/static/media/avatar-orange.476981f0f5f5cf971951d15be9869437.svg",
+    "static/media/avatar.svg": "/static/media/avatar.9a9816595f3176a36ce8343a4dd6148f.svg",
+    "static/media/Search.svg": "/static/media/Search.601e0f3a934ecaf225a4db55bec36591.svg",
+    "index.html": "/index.html",
+    "static/media/homepage-orange.svg": "/static/media/homepage-orange.bf0bd26765ffe1ee93352774d8494116.svg",
+    "static/media/homepage.svg": "/static/media/homepage.8b7b9219b6a5ad04ae25358c4a6a95d4.svg",
+    "static/media/edit.svg": "/static/media/edit.4741233367ef7eec4bf283a717f0ef33.svg",
+    "static/media/clock.svg": "/static/media/clock.3ae542e85004dcb00beb7462cd5c66dc.svg",
+    "static/media/back.svg": "/static/media/back.6bfcb1f9203c284d7133e4f475ed3cbf.svg",
+    "main.3d10672c.css.map": "/static/css/main.3d10672c.css.map",
+    "main.fc4b689e.js.map": "/static/js/main.fc4b689e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.fc4b689e.js"
+  ]
+}
