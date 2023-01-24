@@ -35,14 +35,5 @@ Ao entrar em um restaurante, serão listados os produtos fornecidos e o usuário
 
 - * [Postman](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
 
-## Imagens:
-
-![r1](https://user-images.githubusercontent.com/104534121/214418955-9e80aad7-be0f-4a4f-9e90-3d10b85d8e97.png)
-![r2](https://user-images.githubusercontent.com/104534121/214418978-dfe9a445-050d-440d-9a15-4cb652c4122a.png)
-![r3](https://user-images.githubusercontent.com/104534121/214419169-e3d622b5-4800-4147-af80-f45745639707.png)
-![r4](https://user-images.githubusercontent.com/104534121/214419015-57c8a9d2-5eb7-4685-8e5d-0bf960dd0863.png)
-![r5](https://user-images.githubusercontent.com/104534121/214418991-56d49f11-52c8-419b-a38c-bd3fc864ca1d.png)
-
-
 
 
