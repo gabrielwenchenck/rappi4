@@ -13,7 +13,7 @@ Ao entrar em um restaurante, serão listados os produtos fornecidos e o usuário
 
 ## Link de acesso:
 
-- * [Rappi4](overrated-marble.surge.sh)
+- [Rappi4](overrated-marble.surge.sh)
 
 ## Tecnologias utilizadas:
 
@@ -29,11 +29,11 @@ Ao entrar em um restaurante, serão listados os produtos fornecidos e o usuário
 
 ## Autor
 
-- * [Gabriel Wenchenck](https://github.com/gabrielwenchenck)
+- [Gabriel Wenchenck](https://github.com/gabrielwenchenck)
 
 ## Documentação:
 
-- * [Postman](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
+- [Postman](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
 
 
 
