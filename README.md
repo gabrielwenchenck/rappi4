@@ -13,7 +13,7 @@ Ao entrar em um restaurante, serão listados os produtos fornecidos e o usuário
 
 ## Link de acesso:
 
-- [Rappi4](overrated-marble.surge.sh)
+- [Rappi4](https://overrated-marble.surge.sh/)
 
 ## Tecnologias utilizadas:
 
